@@ -1,8 +1,8 @@
 # Spotify Profile
 
-> A web app for visualizing personalized Spotify data
+> Une application Web pour visualiser les données Spotify personnalisées construites avec React, Express et l'API Spotify
 
-Built with a bunch of things, but to name a few:
+Construit avec un tas de choses, mais pour n'en nommer que quelques-uns:
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [Create React App](https://github.com/facebook/create-react-app)
@@ -17,7 +17,7 @@ Built with a bunch of things, but to name a few:
 1. `nvm use`
 1. `yarn && yarn client:install`
 1. `yarn dev`
-
+<!---
 ## Deploying to Heroku
 
 1. Create new heroku app
@@ -44,3 +44,4 @@ Built with a bunch of things, but to name a few:
 4. Add `http://app-name.herokuapp.com/callback` as a Redirect URI in the spotify application settings
 
 5. Once the app is live on Heroku, hitting http://app-name.herokuapp.com/login should be the same as hitting http://localhost:8888/login
+-->
