@@ -1,4 +1,4 @@
-# Spotify Profile
+# Spoofy
 
 > Une application Web pour visualiser les données Spotify personnalisées construites avec React, Express et l'API Spotify
 
@@ -12,8 +12,8 @@ Construit avec un tas de choses, mais pour n'en nommer que quelques-uns:
 
 ## Setup
 
-1. [Register a Spotify App](https://developer.spotify.com/dashboard/applications) and add `http://localhost:8888/callback` as a Redirect URI in the app settings
-1. Create an `.env` file in the root of the project based on `.env.example`
+1. [Enregistrez une application Spotify](https://developer.spotify.com/dashboard/applications) et ajoutez `http://localhost:8888/callback` comme URI de redirection dans les paramètres de l'application
+1. Créez un fichier `.env` à la racine du projet basé sur `.env.example`
 1. `nvm use`
 1. `yarn && yarn client:install`
 1. `yarn dev`
